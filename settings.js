@@ -42,7 +42,7 @@ global.botscript = 'https://github.com/Anonphoenix007/CheemsBot-MD8' //script li
 global.packname = "Sticker By"
 global.author = "🦄『••  ᖴᖇEᗪEᖇIᑕK  ••』 \n\n"
 global.creator = "2349072958046s.whatsapp.net"
-global.prefa = ['','!','.','#','&']
+global.prefa = ['-']
 global.sessionName = 'session'
 global.hituet = 0
 
