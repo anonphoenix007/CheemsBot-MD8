@@ -6,7 +6,7 @@ global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 global.autoblockmorroco = false //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
-global.antispam = false //auto kick spammer (true to on, false to off)
+global.antispam = true //auto kick spammer (true to on, false to off)
 
 
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['2349031616504'] //ur owner number
-global.ownernomer = "2349031616504" //ur owner number2
+global.owner = ['27640498397'] //ur owner number
+global.ownernomer = "27640498397" //ur owner number2
 global.ownername = "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
 global.socialm = "GitHub: Anonphoenix007" //ur github or insta name
@@ -30,9 +30,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "Cheems Bot MD V8"
-global.ownernumber = '2349031616504'
+global.ownernumber = '27640498397'
 global.ownername = 'Tᴀɪʀᴀ Mᴀᴋɪɴᴏ'
-global.ownerNumber = ["2349031616504@s.whatsapp.net"]
+global.ownerNumber = ["27640498397@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/1pKH"
@@ -40,9 +40,9 @@ global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/Anonphoenix007/CheemsBot-MD8' //script link
 global.packname = "Sticker By"
-global.author = "🦄『••  ᖴᖇEᗪEᖇIᑕK  ••』 \n\n"
-global.creator = "2349031616504.whatsapp.net"
-global.prefa = ['.']
+global.author = "🦄🐦Makino md ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ\n\n"
+global.creator = "27640498397.whatsapp.net"
+global.prefa = ['/']
 global.sessionName = 'session'
 global.hituet = 0
 
